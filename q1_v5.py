@@ -821,3 +821,6 @@ if __name__ == "__main__":
     # Step 4: score all unlabeled clients (only after prompt is validated)
     run_unlabeled_pipeline(UNLABELED_CONFIG)  
     # ← uncomment this once Q1a looks good
+    
+    # Gen-AI was used in the completion of this code
+    
