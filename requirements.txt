@@ -1,0 +1,4 @@
+tqdm
+google-genai
+huggingface_hub
+ollama run gemma3:27b

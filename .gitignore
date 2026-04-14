@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+/q1_v2.py
+/q1_v3.py
+/q1_v4.py
