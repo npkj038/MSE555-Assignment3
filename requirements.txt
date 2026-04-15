@@ -1,4 +1,10 @@
 tqdm
 google-genai
 huggingface_hub
-ollama run gemma3:27b
+openai
+python-dotenv
+numpy
+pandas
+matplotlib
+matplotlib.pyplot
+scikit-learn
