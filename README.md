@@ -1,7 +1,6 @@
 # MSE 555: Assignment 3
 
-*Westfield Children’s Centre - Applied Case Study: From Clinical Notes to Optimal Service Policies
-*
+*Westfield Children’s Centre - Applied Case Study: From Clinical Notes to Optimal Service Policies*
 ## Setup
 
 ### Requirements
