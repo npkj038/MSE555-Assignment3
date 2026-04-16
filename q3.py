@@ -1,5 +1,7 @@
 """
 Q3 – Intake characteristics by trajectory cluster
+
+Note: Gen-AI was used in the completion of this code
 """
 
 import numpy as np

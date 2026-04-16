@@ -41,6 +41,9 @@ Expected inputs:
 Expected outputs:
     output/evaluated_labeled_results.json   – scored test set with true labels (Q1a)
     output/scored_notes.json                – scored unlabeled clients (Q1b, feeds Q2)
+
+
+Note: Gen-AI was used in the completion of this code
 """
 
 from __future__ import annotations
@@ -821,6 +824,5 @@ if __name__ == "__main__":
     # Step 4: score all unlabeled clients (only after prompt is validated)
     run_unlabeled_pipeline(UNLABELED_CONFIG)  
     # ← uncomment this once Q1a looks good
-    
-    # Gen-AI was used in the completion of this code
+
     

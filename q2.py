@@ -1,6 +1,8 @@
 """
 Q2 Pipeline: Trajectories, Optimization & Selecting K
 Westfield Children's Centre – Assignment 3
+
+Note: Gen-AI was used in the completion of this code
 """
 
 import numpy as np
@@ -359,4 +361,3 @@ for c in cluster_ids:
     print(f"  Avg score sessions 1-5:  {first_half:.2f}")
     print(f"  Avg score sessions 6-11: {second_half:.2f}")
     
-    # Gen-AI was used in the completion of this code
