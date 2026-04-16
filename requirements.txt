@@ -6,5 +6,5 @@ python-dotenv
 numpy
 pandas
 matplotlib
-matplotlib.pyplot
 scikit-learn
+seaborn

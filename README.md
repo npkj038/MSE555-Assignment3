@@ -1,10 +1,11 @@
 # MSE 555: Assignment 3
 
+*Westfield Children’s Centre - Applied Case Study: From Clinical Notes to Optimal Service Policies
+*
 ## Setup
 
 ### Requirements
 - python 3.11+
-- Jupyter extension in VSCode (if needed)
 
 ### Dev Setup (One-Time)
 1. In root, create venv
